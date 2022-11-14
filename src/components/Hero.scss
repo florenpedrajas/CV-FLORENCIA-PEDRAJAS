@@ -1,0 +1,47 @@
+.hero {
+  display: inline-block;
+  position: relative;
+  border-right: 5px double rgba(50, 41, 31, 0.93);
+  border-radius: 0px 2px 0px 0px;
+  width: 450px;
+  height: 750px;
+  color: #5a5a5a;
+  font-family: "Bungee Spice", cursive;
+  font-family: "Lobster", cursive;
+}
+
+h1 {
+  z-index: 999;
+  font-size: 40px;
+  align-content: center;
+  margin-top: 50px;
+  margin-left: 50px;
+  overflow: hidden;
+  padding-bottom: 30px;
+}
+.Name {
+  font-size: 30px;
+}
+
+.direccion {
+  margin-left: 50px;
+  top: 0;
+  bottom: 0;
+  z-index: 999;
+  margin-top: 150px;
+  font-size: 20px;
+}
+.otrosdatos {
+  margin-left: 50px;
+  padding-top: 50px;
+  top: 25px;
+  bottom: 0;
+  z-index: 999;
+  font-size: 20px;
+}
+li {
+  list-style: none;
+}
+.dataicon {
+  width: 30px;
+}

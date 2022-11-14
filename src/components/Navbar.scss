@@ -1,0 +1,21 @@
+navbar {
+  max-width: 1000px;
+}
+
+.icon {
+  width: 50px;
+}
+
+.datos {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  align-items: center;
+  padding-right: 255%;
+  font-size: 20px;
+  margin-left: 30%;
+  margin-right: 30%;
+  width: 70%;
+  font-size: 20px;
+  letter-spacing: 2%;
+}
